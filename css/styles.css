@@ -21,12 +21,35 @@
     padding: 100px;
     color: white;
  }
- .card{
+ .garelly{
+     margin-left: 300px;
+ }
+ /* .card{
     background-image: url("file:///home/wecode/Documents/PizzaApp/PizzaApp/images/piZZa.png");
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 1;
     box-shadow: 5px 10px 5px;
+  } */
+  img{
+      width: 200px;
+      height: 170px;
+  }
+  div.hagati{
+      background-color: white;
+  }
+  div.up{
+      display: flex;
+      justify-content: space-around;
+  }
+  .order{
+     background-color: rgba(1, 1, 1, 0.3);
+     color: azure;
+  }
+  h2{
+      text-align: center;
+      text-transform: uppercase;
+      font-weight: 900;
   }
   #pizzaDetails{
     display: none;
