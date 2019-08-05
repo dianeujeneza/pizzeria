@@ -8,7 +8,10 @@
  body{
    color: 0 solid black;
    font-family: 'PT Sans', sans-serif;
-   background-color: burlywood;
+   /* background-color: burlywood; */
+   background-image:url("https://thestingyvegan.com/wp-content/uploads/2017/10/vegan-nacho-pizza-photo.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
    font-weight: bold;
  }
  .jumbotron{
