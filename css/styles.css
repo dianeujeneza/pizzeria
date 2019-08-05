@@ -13,27 +13,58 @@
    background-repeat: no-repeat;
    background-size: cover;
    font-weight: bold;
+   background-attachment: fixed;
  }
- .jumbotron{
+ div.mutwe{
+     padding: 300px;
+     text-align: center;
+     /* color: yellow; */
+ }
+ span{
+     color: white;
+     font-size: 150%;
+     font-style: italic;
+ }
+ /* h4{
+     font-weight: 800;
+     font-size: 150%;
+     color: aliceblue;
+ } */
+ h1{
+    font-size: 80px;
+    color:yellow;
+ }
+ .ppp{
+    background-color: rgba(43, 41, 41, 0.3);
+    padding: 100px;
+ }
+ h3{
+     color:yellowgreen;
+     font-weight: 700;
+ }
+ /* .jumbotron{
      background-image: url("file:///home/wecode/Documents/PizzaApp/PizzaApp/images/pi.jpg");
      background-repeat: no-repeat;
     background-size: cover;
     padding: 100px;
     color: white;
- }
+ } */
  .garelly{
      margin-left: 300px;
  }
- /* .card{
-    background-image: url("file:///home/wecode/Documents/PizzaApp/PizzaApp/images/piZZa.png");
-    background-repeat: no-repeat;
-    background-size: cover;
+ .card{
     opacity: 1;
     box-shadow: 5px 10px 5px;
-  } */
+    background-color: rgba(43, 41, 41, 0.3);
+  }
   img{
       width: 200px;
-      height: 170px;
+      height: 150px;
+  }
+  .foot{
+      text-align: center;
+      background-color: rgba(255, 255, 255, 0.6);
+      font-size: 120%
   }
   div.hagati{
       background-color: white;
